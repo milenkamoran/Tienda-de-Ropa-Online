@@ -1,0 +1,668 @@
+    [
+ 
+    {
+        "Imagen" : "https://i.pinimg.com/564x/b1/c1/d9/b1c1d969278c97f6918a66687557c4c4.jpg",
+        "Nombre": "vestido casual",
+        "Tipo" : "vestido",
+        "Colores":   ["Lila",
+                    "Amarillo",
+                    "Crema",
+                    "Verde"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 120,
+        "Temporada" : "Primavera"
+    },
+    
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/b1/2d/0e/b12d0e21cca242082af5563f71e562c3.jpg",
+        "Nombre": "vestido formal",
+        "Tipo" : "vestido",
+        "Colores":   ["Rojo",
+                    "Celeste",
+                    "Palo Rosa",
+                    "Anaranjado"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 130,
+        "Temporada" : "Primavera"
+    },
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/76/2a/5f/762a5f990dc074569b4d97e2b613d025.jpg",
+        "Nombre": "vestido formal",
+        "Tipo" : "vestido",
+        "Colores":   ["Crema",
+                    "Guinda",
+                    "Celeste",
+                    "Blanco"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 180,
+        "Temporada" : "Invierno"
+    },
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/f9/77/2a/f9772a29ca26bfbed2dc6bf2363c50fb.jpg",
+        "Nombre": "vestido formal",
+        "Tipo" : "vestido",
+        "Colores":   ["Verde Agua",
+                    "Celeste",
+                    "Blanco",
+                    "Lila"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 170,
+        "Temporada" : "Otoño"
+    },
+    {
+        "Imagen" : "https://i.pinimg.com/564x/01/07/d0/0107d0c9186f59c4469c1573e56b3a91.jpg",
+        "Nombre": "vestido formal",
+        "Tipo" : "vestido",
+        "Colores":   ["Verde",
+                    "Rosa",
+                    "Azul",
+                    "Rojo"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 190,
+        "Temporada" : "Invierno"
+    },
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/58/27/d2/5827d2139130ac44c915633e14d92507.jpg",
+        "Nombre": "vestido casual",
+        "Tipo" : "vestido",
+        "Colores":   ["Verde Agua",
+                    "Palo Rosa",
+                    "Lila",
+                    "Blanco"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 150,
+        "Temporada" : "Otoño"
+    },
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/01/9c/66/019c66fc84b4dab5f0840ffdc1766ca9.jpg",
+        "Nombre": "pantalon casual",
+        "Tipo" : "pantalones",
+        "Colores":   ["Blanco",
+                    "Mostaza",
+                    "Marrón",
+                    "Guinda"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 80,
+        "Temporada" : "Otoño"
+    },
+    
+    
+
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/57/a7/23/57a723c3f09764178af50a2dcd00fc13.jpg",
+        "Nombre": "short formal",
+        "Tipo" : "short",
+        "Colores":   ["Plomo",
+                    "Marrón",
+                    "Celeste",
+                    "Azul"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 110,
+        "Temporada" : "Primavera"
+    },
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/8a/73/66/8a7366eaa7ebd3b8bf18afa950e9f8e7.jpg",
+        "Nombre": "short formal",
+        "Tipo" : "short",
+        "Colores":   ["Mostaza",
+                    "Celeste",
+                    "Blanco",
+                    "Palo Rosa"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 125,
+        "Temporada" : "Primavera"
+    },
+
+   
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/fa/f5/61/faf5616654e433ee75d2ba7a8471e2de.jpg",
+        "Nombre": "short formal",
+        "Tipo" : "short",
+        "Colores":   ["Verde",
+                    "Guinda",
+                    "Beig",
+                    "Negro"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 160,
+        "Temporada" : "Primavera"
+    },
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/76/c1/47/76c147a869c3023a81469fc93496db03.jpg",
+        "Nombre": "vestido casual",
+        "Tipo" : "vestido",
+        "Colores":   ["Plomo",
+                    "Lila",
+                    "Azul",
+                    "Beig"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 90,
+        "Temporada" : "Primavera"
+    },
+
+  
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/65/9a/09/659a09415edd250106e50792caad57ad.jpg",
+        "Nombre": "blusa formal",
+        "Tipo" : "blusa",
+        "Colores":   ["Verde",
+                    "Lila",
+                    "Marrón",
+                    "Blanco"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 80,
+        "Temporada" : "Primavera"
+    },
+
+    
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/b3/5e/5f/b35e5fe81e8b0f135bbd47bc0163d39f.jpg",
+        "Nombre": "blusa formal",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Mostaza",
+                "Negro",
+                "Verde",
+                "Guinda"],
+        "Tallas" : ["XS","S","M"],
+        "Precio" : "90",
+        "Temporada" : "Invierno"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/08/48/a7/0848a7a5531262f56087b2ba76dc9c56.jpg",
+        "Nombre": "blusa casual",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Morado",
+                "Amarillo",
+                "Celeste",
+                "lila"],
+        "Tallas" : ["XS","S","M"],
+        "Precio" : "85",
+        "Temporada" : "Primavera"
+    },
+    
+   
+    
+    {
+        "Imagen" : "https://i.pinimg.com/736x/6d/73/18/6d731878f4971b41ea091719de6df82a.jpg",
+        "Nombre": "blusa formal",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Palo Rosa",
+                "Verde Agua",
+                "lila",
+                "blanco"],
+        "Tallas" : ["XS","S","M"],
+        "Precio" : "95",
+        "Temporada" : "Invierno"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/bb/a8/8a/bba88a9ffa8a615f41b5ab645eec2496.jpg",
+        "Nombre": "blusa formal",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Verde",
+                "Celeste",
+                "Beige",
+                "Amarillo"],
+        "Tallas" : ["XS","S","M"],
+        "Precio" : "100",
+        "Temporada" : "Primavera"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/c1/0b/80/c10b804e2d25c9fbf5663307fd05441f.jpg",
+        "Nombre": "blusa formal",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Guinda",
+                "Palo Rosa",
+                "lila",
+                "Mostaza"],
+        "Tallas" : ["XS","S","M"],
+        "Precio" : "95",
+        "Temporada" : "Otoño"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/cc/88/31/cc88316ebf55a36c57882b728821821a.jpg", 
+        "Nombre": "blusa formal",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Amarillo",
+                "Palo Rosa",
+                "Celeste",
+                "blanco"],
+        "Tallas" : ["XS","S","M"],
+        "Precio" : "105",
+        "Temporada" : "Invierno"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/e5/a9/0e/e5a90e9fa5786f4860f47936bde96bde.jpg",
+        "Nombre": "pantalon casual",
+        "Tipo" : "pantalones",
+        "Colores" : [
+                "Rojizo",
+                "Negro",
+                "Plomo",
+                "Azul"],
+        "Tallas" : ["XS","S","M"],
+        "Precio" : "65",
+        "Temporada" : "Invierno"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/42/f0/ea/42f0ea9c86598e799773c33623d378bc.jpg",
+        "Nombre": "blusa formal",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Verde",
+                "Celeste",
+                "Negro",
+                "Anaranjado"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "60",
+        "Temporada" : "Invierno"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/54/34/d3/5434d370436c219b02b3dcb4f81a6b70.jpg",
+        "Nombre": "blusa casual",
+        "Tipo" : "blusa",
+        "Colores" :  [ "Amarillo",
+                    "Anaranjado",
+                        "Rojo",
+                        "Verde"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "60",
+        "Temporada" : "Otoño"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/0c/59/0d/0c590dafd1e5f98450054c5aa0cb89f9.jpg",
+        "Nombre": "pantalon formal",
+        "Tipo" : "pantalones",
+        "Colores" : [
+                "Verde Militar",
+                "Anaranjado",
+                "Negro"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "80",
+        "Temporada" : "Otoño"
+
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/6e/d5/dd/6ed5ddc364bfd4f7768de78c42760d38.jpg",
+        "Nombre": "pantalon formal",
+        "Tipo" : "pantalones",
+        "Colores" : [
+                "Anaranjado",
+                "Verde Militar",
+                "Guinda",
+                "Azul"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "95",
+        "Temporada" : "Invierno"
+
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/4c/15/f8/4c15f81a1bfb17e110afa1521e939023.jpg",
+        "Nombre": "blusa casual",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Gris",
+                "Beige",
+                "Negro",
+                "Blanco"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "55",
+        "Temporada" : "Invierno"
+    },
+
+
+
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/ec/43/af/ec43af608e9e20fd5de83b076289b64a.jpg",
+        "Nombre": "pantalon formal",
+        "Tipo" : "pantalones",
+        "Colores" : [
+                "Gris",
+                "Beige",
+                "Negro",
+                "Blanco"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "55",
+        "Temporada" : "Invierno"
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/ae/bf/fb/aebffbcc7b84d13ae48bf44bc1698f62.jpg",
+        "Nombre": "blusa casual",
+        "Tipo" : "blusa",
+        "Colores" : [
+                "Mostaza",
+                "Rojo",
+                "Celeste",
+                "blanco"],
+        "Tallas" : ["XS","S","M"],
+        "Precio" : "70",
+        "Temporada" : "Otoño"
+    },
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/27/1a/fa/271afa51a97a9be7f895cae263df96c3.jpg",
+        "Nombre": "pantalon formal",
+        "Tipo" : "pantalones",
+        "Colores" : [
+                    "Crema",
+                    "Blanco",
+                    "Blanco",
+                    "Celeste"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "100",
+        "Temporada" : "Otoño"
+    },
+
+
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/4f/87/22/4f8722202760045c394c4713a04b4739.jpg",
+        "Nombre": "pantalon casual",
+        "Tipo" : "pantalones",
+        "Colores" : [
+                    "Crema",
+                    "Blanco",
+                    "Blanco",
+                    "Celeste"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "70",
+        "Temporada" : "Otoño"
+    },
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/f6/47/88/f64788b023e4916a11c10df36c0677f2.jpg",
+        "Nombre": "blusa formal",
+        "Tipo" : "blusa",
+        "Colores" : [
+                    "Celeste",
+                    "lila",
+                    "Blanco",
+                    "Palo Rosa"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : "65",
+        "Temporada" : "Otoño"
+    },
+    
+
+    {
+            "Imagen" : "https://i.pinimg.com/564x/03/6d/8f/036d8f48f3feed36dae3cbde9de43db5.jpg",
+            "Nombre": "vestido formal",
+            "Tipo" : "vestido",
+            "Colores":   ["Rojo",
+                        "Negro",
+                        "Crema",
+                        "Amarillo"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 70,
+            "Temporada" : "Verano"
+        },
+        
+        {
+            "Imagen" : "https://i.pinimg.com/564x/2d/ad/a3/2dada3fdc1008f772806929f210fb2d5.jpg",
+            "Nombre": "short casual",
+            "Tipo" : "short",
+            "Colores":   ["Anaranjado",
+                        "Crema",
+                        "Blanco",
+                        "Plomo"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 90,
+            "Temporada" : "Primavera"
+        },
+        
+        {
+            "Imagen" : "https://i.pinimg.com/564x/65/e2/41/65e241841c8729e09cb89240c4f68038.jpg",
+            "Nombre": "vestido casual",
+            "Tipo" : "vestido",
+            "Colores":   ["Marrón",
+                        "Morado",
+                        "Rosado",
+                        "Verde"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 150,
+            "Temporada" : "Verano"
+        },
+        
+       
+        
+        {
+            "Imagen" : "https://i.pinimg.com/564x/af/e3/87/afe3877c465f995a95ffc7ad9c50c0bb.jpg",
+            "Nombre": "short formal",
+            "Tipo" : "short",
+            "Colores":   ["Beig",
+                        "Negro",
+                        "Marrón",
+                        "Verde Militar"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 120,
+            "Temporada" : "Verano"
+        },
+        
+        {
+            "Imagen" : "https://i.pinimg.com/564x/c2/a6/55/c2a655e3eb068060ee2a14257a225bb6.jpg",
+            "Nombre": "short formal",
+            "Tipo" : "short",
+            "Colores":   ["Crema",
+                        "Amarillo",
+                        "Lila",
+                        "Blanco"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 110,
+            "Temporada" : "Primavera"
+        },
+        
+        {
+            "Imagen" : "https://i.pinimg.com/564x/83/19/d7/8319d7bd88382c790f0b173c2724843c.jpg",
+            "Nombre": "blusa formal",
+            "Tipo" : "blusa",
+            "Colores" : [
+                    "blanco", 
+                    "lila", 
+                    "rosado",
+                    "Verde Agua"],
+            "Tallas" : ["XS","S","M"],
+            "Precio" : "70",
+            "Temporada" : "Primavera"
+        },
+        
+        
+        
+        
+        {
+            "Imagen" : "https://i.pinimg.com/564x/d9/18/87/d9188748017d658e0d3b3eb7a78ebb27.jpg",
+            "Nombre": "short casual",
+            "Tipo" : "short",
+            "Colores":   ["Azulino",
+                        "Celeste",
+                        "Beig",
+                        "Blanco"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 130,
+            "Temporada" : "Primavera"
+        },
+        
+        
+        
+        {
+            "Imagen" : "https://i.pinimg.com/564x/8c/9f/14/8c9f1418b9d1213161d84a7f95f79676.jpg",
+            "Nombre": "vestido casual",
+            "Tipo" : "vestido",
+            "Colores":   ["Verde",
+                        "Celeste",
+                        "Rosado",
+                        "Amarillo"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 65,
+            "Temporada" : "Primavera"
+        },
+        
+      
+
+
+
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/16/e5/24/16e5247f69e6ff057b9ae49393df7657.jpg",
+            "Nombre" : "short casual",
+            "Tipo" : "short",
+            "Colores":   ["Beig",
+                        "Crema",
+                        "Blanco",
+                        "Mostaza"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 90,
+            "Temporada" : "Verano"
+        },
+
+
+        {
+         "Imagen" : "https://i.pinimg.com/564x/d8/b4/9e/d8b49e3c456d6116d518088c337a8755.jpg",
+        "Nombre" : "short casual",
+        "Tipo" : "short",
+        "Colores":   ["Beig",
+                "Negro",
+                "Marrón",
+                "Verde Militar"],
+        "Tallas" : [ "XS","S","M"],
+        "Precio" : 120,
+        "Temporada" : "Verano"
+        },
+
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/23/62/b8/2362b8edbf7d567a01d9723002e042d8.jpg",
+            "Nombre" : "short formal",
+            "Tipo" : "short",
+            "Colores":   ["Crema",
+                        "Verde Agua",
+                        "Lila",
+                        "Blanco"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 110,
+            "Temporada" : "Verano"
+        },
+
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/d5/7d/87/d57d87ec9c74507194d1efde3f67cb08.jpg",
+            "Nombre" : "short formal",
+            "Tipo" : "short",
+            "Colores":   ["Azulino",
+                        "Celeste",
+                        "Beig",
+                        "Blanco"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 130,
+            "Temporada" : "Verano"
+        },
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/34/e9/e1/34e9e1f8bc8cdbc718f0e27d30a171e7.jpg",
+            "Nombre" : "short casual",
+            "Tipo" : "short",
+            "Colores":   ["Rosado",
+                        "Lila",
+                        "Verde",
+                        "Celeste"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 135,
+            "Temporada" : "Verano"
+        },
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/b0/f5/93/b0f593ef34b2ff16b44004083c9490e2.jpg",
+            "Nombre" : "vestido casual",
+            "Tipo" : "vestido",
+            "Colores":   ["Rojo",
+                        "Negro",
+                        "Crema",
+                        "Amarillo"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 50,
+            "Temporada" : "Verano"
+        },
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/f3/1a/47/f31a47dca721a6a7e1c0f2f45019240c.jpg",
+            "Nombre" :"vestido formal",
+            "Tipo" : "vestido",
+            "Colores":   ["Marrón",
+                        "Morado",
+                        "Rosado",
+                        "Verde"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 150,
+            "Temporada" : "Verano"
+        },
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/fb/f0/8b/fbf08b148f9c7bbf1ed3aa2c5c4f6cad.jpg",
+            "Nombre" :"vestido casual",
+            "Tipo" : "vestido",
+            "Colores":   ["Verde",
+                        "Celeste",
+                        "Rosado",
+                        "Amarillo"],
+            "Tallas" : [ "XS","S","M"],
+            "Precio" : 65,
+            "Temporada" : "Verano"
+        },
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/2a/b7/fb/2ab7fb8abeffd3cb012516cd86b04dc1.jpg",
+            "Nombre" : "blusa formal",
+            "Tipo" : "blusa",
+            "Colores" : [
+                    "blanco", 
+                    "lila", 
+                    "rosado",
+                    "beige"],
+            "Tallas" : ["XS","S","M"],
+            "Precio" : "70",
+            "Temporada" : "Verano"
+        },
+
+        {
+            "Imagen" : "https://i.pinimg.com/564x/63/f3/a0/63f3a0d57b181e67d4514916640441c3.jpg",
+            "Nombre" : "blusa casual",
+            "Tipo" : "blusa",
+            "Colores" : [
+                    "Mostaza",
+                    "Rojo",
+                    "Celeste",
+                    "blanco"],
+            "Tallas" : ["XS","S","M"],
+            "Precio" : "70",
+            "Temporada" : "Verano"
+        }
+
+
+        ]
+    

@@ -1,0 +1,28 @@
+[
+    {
+        "Imagen" : "https://i.pinimg.com/564x/a4/91/5d/a4915d0102532108da111e96c3c68ad1.jpg",
+        "Tipo" : "VESTIDOS"
+        
+    },
+    
+    {
+        "Imagen" : "https://i.pinimg.com/564x/c5/a2/71/c5a27127f618aa4b3a371c01b6d43658.jpg",
+        "Tipo" : "PANTALONES"
+        
+    },
+
+
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/2a/b7/fb/2ab7fb8abeffd3cb012516cd86b04dc1.jpg",
+        "Tipo" : "BLUSAS"
+        
+    },
+   
+
+    {
+        "Imagen" : "https://i.pinimg.com/564x/73/35/6f/73356f84635dfcc3f9b5d39be64424bc.jpg",
+        "Tipo" : "SHORT"
+        
+    }
+    ]
